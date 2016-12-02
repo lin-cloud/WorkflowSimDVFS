@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/core
+END
+FutureQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/core/FutureQueue.java
+END
+CloudSim.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/core/CloudSim.java
+END
+DeferredQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/core/DeferredQueue.java
+END
+SimEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/core/SimEntity.java
+END
+SimEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/core/SimEvent.java
+END
+CloudSimShutdown.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/core/CloudSimShutdown.java
+END
+CloudInformationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/core/CloudInformationService.java
+END
+CloudSimTags.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/core/CloudSimTags.java
+END

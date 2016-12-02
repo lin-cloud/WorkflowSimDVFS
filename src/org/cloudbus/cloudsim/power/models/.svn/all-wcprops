@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/power/models
+END
+PowerModelSpecPowerIbmX3250XeonX3470.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/power/models/PowerModelSpecPowerIbmX3250XeonX3470.java
+END
+PowerModelSpecPowerIbmX3250XeonX3480.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/power/models/PowerModelSpecPowerIbmX3250XeonX3480.java
+END
+PowerModelCubic.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/power/models/PowerModelCubic.java
+END
+PowerModelSpecPower.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/power/models/PowerModelSpecPower.java
+END
+PowerModelSpecPowerIbmX3550XeonX5670.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/power/models/PowerModelSpecPowerIbmX3550XeonX5670.java
+END
+PowerModelSpecPowerHpProLiantMl110G5Xeon3075.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/power/models/PowerModelSpecPowerHpProLiantMl110G5Xeon3075.java
+END
+PowerModelSqrt.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/power/models/PowerModelSqrt.java
+END
+PowerModelLinear.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/power/models/PowerModelLinear.java
+END
+PowerModelSpecPowerIbmX3550XeonX5675.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/power/models/PowerModelSpecPowerIbmX3550XeonX5675.java
+END
+PowerModelSpecPowerHpProLiantMl110G3PentiumD930.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/power/models/PowerModelSpecPowerHpProLiantMl110G3PentiumD930.java
+END
+PowerModelSpecPowerHpProLiantMl110G4Xeon3040.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/power/models/PowerModelSpecPowerHpProLiantMl110G4Xeon3040.java
+END
+PowerModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/power/models/PowerModel.java
+END
+PowerModelSquare.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/power/models/PowerModelSquare.java
+END

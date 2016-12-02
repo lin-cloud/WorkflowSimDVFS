@@ -1,0 +1,26 @@
+<modify-entry
+   copyfrom-url="http://cloudsim.googlecode.com/svn/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/power/models/PowerModelSpecPowerIbmX3250XeonX3470.java"
+   copied="true"
+   copyfrom-rev="158"
+   schedule="add"
+   name="PowerModelSpecPower_REIMS_Disk.java"/>
+<modify-entry
+   kind="file"
+   deleted="false"
+   absent="false"
+   name="PowerModelSpecPower_REIMS_Disk.java"
+   revision="158"
+   working-size="-1"
+   text-time="1970-01-01T00:00:00.000000Z"
+   url="http://cloudsim.googlecode.com/svn/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/power/models/PowerModelSpecPower_REIMS_Disk.java"/>
+<mv
+   dest="PowerModelSpecPower_REIMS_Disk.java"
+   name="PowerModelSpecPower_REIMS_Disk.java.tmp"/>
+<mv
+   dest=".svn/text-base/PowerModelSpecPower_REIMS_Disk.java.svn-base"
+   name=".svn/tmp/text-base/PowerModelSpecPower_REIMS_Disk.java.svn-base"/>
+<readonly
+   name=".svn/text-base/PowerModelSpecPower_REIMS_Disk.java.svn-base"/>
+<modify-entry
+   checksum="40cd397a67091ac69f5d7a4950f316fc"
+   name="PowerModelSpecPower_REIMS_Disk.java"/>

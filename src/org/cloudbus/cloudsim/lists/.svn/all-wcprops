@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/lists
+END
+PeList.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/lists/PeList.java
+END
+ResCloudletList.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/lists/ResCloudletList.java
+END
+CloudletList.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/lists/CloudletList.java
+END
+HostList.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/lists/HostList.java
+END
+VmList.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/lists/VmList.java
+END

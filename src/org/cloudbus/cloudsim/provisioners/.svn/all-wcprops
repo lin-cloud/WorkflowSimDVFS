@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/provisioners
+END
+RamProvisioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/provisioners/RamProvisioner.java
+END
+BwProvisionerSimple.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/provisioners/BwProvisionerSimple.java
+END
+PeProvisioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/provisioners/PeProvisioner.java
+END
+BwProvisioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/provisioners/BwProvisioner.java
+END
+RamProvisionerSimple.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/provisioners/RamProvisionerSimple.java
+END
+PeProvisionerSimple.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/139/trunk/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/provisioners/PeProvisionerSimple.java
+END
